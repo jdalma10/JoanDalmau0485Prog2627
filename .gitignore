@@ -1,0 +1,10 @@
+# Ignora-ho tot a l'arrel
+/*
+!.gitignore
+
+# Només la carpeta del RA1
+!/A1*/
+/A1*/*
+
+# ...i dins, només EXERCICIS 1
+!/A1*/EXERCICIS 1*/
