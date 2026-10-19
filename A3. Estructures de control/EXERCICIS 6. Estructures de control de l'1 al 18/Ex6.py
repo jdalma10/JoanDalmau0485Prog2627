@@ -3,7 +3,7 @@
 
 lletra = input("Introdueix una lletra: ")
 
-if lletra[0].isdigit == False:
+if lletra[0].isdigit() == False:
     if lletra[0] == lletra[0].upper():
         print("La lletra es majuscula.")
     else: 
